@@ -1,15 +1,15 @@
 {
-  "name": "test1",
-  "version": "1.0.0",
-  "description": "xg",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "w",
-  "license": "ISC",
-  "git repository": "url://github.com/Nazar2111/test1.git",
-  "dependencies": {
-    "jquery": "^3.1.1"
-  }
+    "name": "test1",
+    "version": "1.0.0",
+    "description": "xg",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "g",
+    "license": "ISC",
+    "git repository": "url://github.com/Nazar2111/test1.git",
+    "dependencies": {
+        "jquery": "^3.1.1"
+    }
 }
